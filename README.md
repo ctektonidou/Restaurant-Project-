@@ -5,5 +5,6 @@ Restaurant Project is based on SQL,plSQL and Java Swing.
 
 -- Create a user
 CREATE USER youruser IDENTIFIED BY yourpassword;
+
 --Grant permissions
 GRANT CONNECT, RESOURCE, DBA TO demo;
